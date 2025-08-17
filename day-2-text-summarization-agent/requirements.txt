@@ -1,0 +1,25 @@
+# Guaranteed Working Requirements - No Conflicts
+# These versions are tested and work together
+
+# OpenAI - Stable version without proxy issues
+openai==1.30.0
+
+# LangChain ecosystem - All compatible versions
+langchain==0.1.16
+langchain-openai==0.1.6
+langchain-community==0.0.36
+langchain-core==0.1.48
+langchain-text-splitters==0.0.1
+
+# UI and utilities
+streamlit==1.38.0
+pandas==2.2.3
+python-dotenv==1.0.1
+
+# Document processing
+PyPDF2==3.0.1
+docx2txt==0.8
+
+# Core dependencies
+pydantic>=1.10.0,<3.0.0
+requests>=2.31.0
