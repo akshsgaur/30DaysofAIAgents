@@ -264,6 +264,3 @@ This project is part of the 30 Days of AI Agents challenge. Use for educational 
 - Open source document processing libraries
 
 ---
-
-**Next**: [Day 3 - Language Translator Agent](../day03_language_translator/README.md)
-```
